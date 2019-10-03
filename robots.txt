@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-Allow: /main
 Sitemap: https://www.tacorice.org/none-standard-location/sitemap.xml
