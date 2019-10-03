@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow:
 Allow: /main
-Sitemap:
-https://tacorice.org/index.xml
+Sitemap: http://www.example.com/none-standard-location/sitemap.xml
