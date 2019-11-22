@@ -5,8 +5,7 @@
 }
 
 @media (max-width: 1000px)
-    .container
-    width: auto
+   
     
     .col- 
     float:none
@@ -74,7 +73,7 @@ a {
 
 /* Container */
 .container {
-    width: 1000px;
+    width: 83.33%;
     margin: auto;
 }
 
