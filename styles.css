@@ -1,15 +1,16 @@
 /* --------- GLOBAL STYLES --------- */
+<link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
 * {
     box-sizing: border-box;
 }
 body {
     margin: auto;
     padding: 0;
-    font-family: monospace;
+    font-family: 'Oswald', sans-serif;
 }
 
 p {
- font-family: monospace;
+ font-family: 'Oswald', sans-serif;
  font-size: 18px;
 }
 
@@ -104,7 +105,7 @@ footer::after,
 nav {
     background-color: white;
     font-size: 26px;
-    font-family: monospace;
+    font-family: 'Oswald', sans-serif;
     font-weight: bold;
     height: 50px;
 }
