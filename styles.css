@@ -3,6 +3,17 @@
 * {
     box-sizing: border-box;
 }
+
+@media (max-width: 1000px)
+    .container
+    width: auto
+    
+    .col- 
+    float:none
+    width:auto
+    
+    
+
 body {
     margin: auto;
     padding: 0;
@@ -63,7 +74,7 @@ a {
 
 /* Container */
 .container {
-    width: 83.33%;
+    width: 1000px;
     margin: auto;
 }
 
